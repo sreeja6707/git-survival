@@ -1,2 +1,2 @@
-Fix Everything.
+Fix Everything
 Branch switching is a Nightmare.
